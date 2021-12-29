@@ -1,0 +1,17 @@
+n7ABNSB4e5vrDK6
+DB
+epiz_28508615_atp
+mysqlHostname
+sql313.epizy.com
+
+
+Username:   epiz_28508615
+Password:   q3gpw69d
+
+FTP Username:  epiz_28508615
+FTP Password:  q3gpw69d
+FTP HostName:  ftp.epizy.com
+
+MySQL Host Name: sql313.epizy.com
+MySQL Password:  q3gpw69d
+MySQL UserName:  epiz_28508615
